@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MathHelper</string>
+    <string name="button">Button</string>
+    <string name="btnBhaskara">Bhaskara</string>
+    <string name="raiz_indice_grande">Raiz índice grande</string>
+    <string name="calcular">Calcular</string>
 </resources>
