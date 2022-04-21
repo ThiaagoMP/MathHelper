@@ -4,6 +4,6 @@
     <item
         android:id="@+id/activity_form_student_menu_save"
         android:icon="@drawable/ic_action_resolve_foreground"
-        android:title="Resolver operação"
+        android:title="@string/resolve_operation"
         app:showAsAction="always" />
 </menu>

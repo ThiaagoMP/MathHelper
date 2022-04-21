@@ -3,20 +3,18 @@ package br.com.thiago.mathhelper.activities
 import android.annotation.SuppressLint
 import android.app.AlertDialog
 import android.content.Intent
-import android.graphics.Color
 import android.os.Bundle
 import android.text.InputType
-import android.util.Log
 import android.view.Menu
 import android.view.MenuItem
-import android.widget.*
+import android.widget.EditText
+import android.widget.LinearLayout
 import androidx.appcompat.app.AppCompatActivity
 import br.com.thiago.mathhelper.R
 import br.com.thiago.mathhelper.model.operation.result.MathResult
 import br.com.thiago.mathhelper.model.recipe.Recipes
 import com.google.gson.Gson
 import java.lang.Double.parseDouble
-import java.lang.NumberFormatException
 
 
 class OperationActivity : AppCompatActivity() {

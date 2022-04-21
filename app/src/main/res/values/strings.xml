@@ -4,4 +4,5 @@
     <string name="btnBhaskara">Bhaskara</string>
     <string name="raiz_indice_grande">Raiz índice grande</string>
     <string name="calcular">Calcular</string>
+    <string name="resolve_operation">Resolver operação</string>
 </resources>
